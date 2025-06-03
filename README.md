@@ -25,3 +25,13 @@ cd cat-fact-app
    npm start
 
    Open http://localhost:3000 in your browser.
+
+## 📸 Screenshots
+
+Homepage of the Cat Fact App:
+
+![Homepage Screenshot](folder/img1.png)
+
+Button clicked showing a random fact:
+
+![Fact Display](folder/img2.png)
